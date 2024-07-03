@@ -252,11 +252,11 @@ install -c -m0644 usr/share/doc/pantum/copyright %buildroot/usr/share/doc/pantum
 
 
 %changelog
-* Mon Apr 21 2024 Marat Faizov <faizov@cg.ru> 1.1.99-alt2
-- repack for alt p8.
+* Thu Jul 02 2024 Marat Faizov <faizov@cg.ru> 1.1.99-alt4
+- Add working .ppd for printers 6500.
 
 * Thu Jun 06 2024 Marat Faizov <faizov@cg.ru> 1.1.99-alt3
 - Add additional *ModelName to all .ppd for different printers.
 
-* Sun Jul 02 2024 Marat Faizov <faizov@cg.ru> 1.1.99-alt4
-- Add working .ppd for printers 6500.
+* Mon Apr 21 2024 Marat Faizov <faizov@cg.ru> 1.1.99-alt2
+- repack for alt p8.
